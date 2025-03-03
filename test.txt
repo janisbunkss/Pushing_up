@@ -4,3 +4,4 @@ Otra rindiņa pievienota uz datora.
 # Nākamā rinda pievienota no M datora.
 # Izmainīju foldera nosaukumu
 # Aizvēru bash un rediģēju tekstu, lai pārbaudītu vai nosaukuma maiņa ietekmē saharus ar GiHub.
+# Uz M datora izdar'iju pull request
